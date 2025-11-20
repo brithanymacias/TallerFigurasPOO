@@ -62,12 +62,6 @@ El programa final crea varias figuras, imprime sus valores, modifica atributos, 
 
 ---
 
-## 📌 Diagrama UML
-
-*(Insertar aquí la imagen del UML generado por ChatGPT)*
-
----
-
 ## ▶️ Ejecución del Programa
 
 El archivo `main.py` demuestra:
