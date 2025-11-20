@@ -24,7 +24,7 @@ El programa final crea varias figuras, imprime sus valores, modifica atributos, 
 │── rectangulo.py
 │── circunferencia.py
 │── main.py
-└── README.md
+│── README.md
 
 ---
 
